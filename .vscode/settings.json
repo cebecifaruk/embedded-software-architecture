@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "stdbool.h": "c",
+    "temperature_sensor.h": "c",
+    "heating_driver.h": "c"
+  }
+}
